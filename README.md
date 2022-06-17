@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - Undergrad CS student @ [ICMC-USP](https://www.icmc.usp.br/)
 - Master's student @ [FAU-USP](https://www.fau.usp.br/)
 - Member of [PET Computação](https://github.com/pet-comp)
+- Intern @ [PontoTel](https://www.pontotel.com.br/)
 
 #### Here's where you can find me
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30"/>](https://www.linkedin.com/in/liviaruegger/)
