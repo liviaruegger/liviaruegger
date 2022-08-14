@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## Hello there! I'm Livia :)
 
 - Undergrad CS student @ [ICMC-USP](https://www.icmc.usp.br/)
 - Master's student @ [FAU-USP](https://www.fau.usp.br/)
 - Member of [PET Computação](https://github.com/pet-comp)
-- Intern @ [PontoTel](https://www.pontotel.com.br/)
+- Backend Developer Intern @ [PontoTel](https://www.pontotel.com.br/)
 
 ### I'm interested in:
 
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 <div>
   <div align="center">
   <a href="https://liviaruegger.itch.io/">
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/UCHPsSNwXTN9RvPKpj/giphy.gif" width="360" height="360"/>
+    <img align="center" alt="GIF" src="https://media.giphy.com/media/UCHPsSNwXTN9RvPKpj/giphy.gif"/>
   </a>
 </div>
 
