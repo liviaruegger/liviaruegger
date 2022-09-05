@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 
 ## Hello there! I'm Livia :)
 
-- Undergrad CS student @ [ICMC-USP](https://www.icmc.usp.br/)
-- Master's student @ [FAU-USP](https://www.fau.usp.br/)
-- Member of [PET Computação](https://github.com/pet-comp)
+- Undergraduate Computer Science student @ [ICMC-USP](https://www.icmc.usp.br/)
+- Master's student @ [FAU-USP](https://www.fau.usp.br/) (History of Architecture Department)
 - Backend Developer Intern @ [PontoTel](https://www.pontotel.com.br/)
+- Member of [PET Computação](https://github.com/pet-comp)
 
 ### I'm interested in:
 
-- Software Architecture & Design
-- Data Engineering
-- Data Science
 - Digital Humanities
+- Data Science
+- Data Engineering
+- Software Architecture & Design
 
 
 ##
