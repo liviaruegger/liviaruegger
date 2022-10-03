@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - Undergraduate Computer Science student @ [ICMC-USP](https://www.icmc.usp.br/)
 - Master's student at the History of Architecture Department @ [FAU-USP](https://www.fau.usp.br/)
 - Backend Developer Intern @ [PontoTel](https://www.pontotel.com.br/)
-- Member of [PET Computação](https://github.com/pet-comp)
 
 ### I'm interested in:
 
