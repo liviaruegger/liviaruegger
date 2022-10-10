@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviaruegger&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaruegger&langs_count=6&theme=bear&layout=compact&hide=jupyter%20notebook,tex"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaruegger&langs_count=8&theme=bear&layout=compact&hide=jupyter%20notebook,tex"/>
   </a>
 </div>
 
