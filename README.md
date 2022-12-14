@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 
 ### I'm interested in:
 
+- Software Engineering
+- Theory of Computation
 - Digital Humanities
-- Data Science
-- Data Engineering
-- Software Architecture & Design
-
 
 ##
 
