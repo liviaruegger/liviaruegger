@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 
 ## Hello there! I'm Livia :)
 
-- Undergraduate Computer Science student @ [ICMC-USP](https://www.icmc.usp.br/)
+- Undergraduate Computer Science student @ [IME-USP](https://www.ime.usp.br/)
 - Master's student at the History of Architecture Department @ [FAU-USP](https://www.fau.usp.br/)
 - Backend Developer Intern @ [PontoTel](https://www.pontotel.com.br/)
 
 ### I'm interested in:
 
-- Software Engineering
-- Theory of Computation
 - Digital Humanities
+- Software Engineering
 
 ##
 
