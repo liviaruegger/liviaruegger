@@ -56,6 +56,10 @@ Here are some ideas to get you started:
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" width="30" height="30"/>
   </a>
   &nbsp
+  <a href="https://leetcode.com/liviaruegger/">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" width="30" height="30"/>
+  </a>
+  &nbsp
   <a href="https://t.me/liviaruegger">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" width="30" height="30"/>
    </a>
