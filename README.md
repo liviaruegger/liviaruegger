@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 ### I'm interested in:
 
-- Digital Humanities
+- Theory of Computation
 - Software Engineering
+- Digital Humanities
 
 ##
 
