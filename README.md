@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - Undergraduate Computer Science student @ [IME-USP](https://www.ime.usp.br/)
 - Master's student at the History of Architecture Department @ [FAU-USP](https://www.fau.usp.br/)
-- Backend Developer Intern @ [PontoTel](https://www.pontotel.com.br/)
+- Intern @ [IBM Research – Brazil](https://research.ibm.com/labs/brazil)
 - I'm interested in (too) many things, ranging from theory of computation to digital humanities ✨
 
 ##
